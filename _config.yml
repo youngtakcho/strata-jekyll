@@ -1,7 +1,7 @@
 title: YoungtakCho Homepage
 description: >
   YoungtakCho is a graduate student of [University of Texas at Arlington](https://www.uta.edu).
-  Also He is a software developer have more than 3 years experience in various development domains.
+  Also, He is a software developer have more than 3 years experience in various development domains.
 copyright: Untitled
 sass:
   sass_dir: assets/sass
@@ -9,13 +9,13 @@ url: http://localhost:4000
 disqus_shortname: stratajekylldemo
 facebook_username:
 twitter_username: "#"
-linkedin_username: "#"
+linkedin_username: "youngtak-cho-91232396"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "nintyning"
 feed_icon: rss
-email: "#"
+email: "youngtakcho88@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
